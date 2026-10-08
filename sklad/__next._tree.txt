@@ -1,2 +1,2 @@
 :HL["/sklad/_next/static/chunks/3924lray3vq-d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"n_d-3tMZUqKGuCF7TrFpM"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"gtnG6cStM5t4a25zkAA22"}
